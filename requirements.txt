@@ -1,4 +1,4 @@
 python-dateutil>=1.5
 pytz
 requests>=1.0
-pyproj==git+https://github.com/gresci/pyproj.git@fix-2.6.1rc1
+git+https://github.com/gresci/pyproj.git@fix-2.6.1rc1
